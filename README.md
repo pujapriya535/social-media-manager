@@ -18,6 +18,12 @@ make install
 make playground        # opens UI at http://localhost:18081
 ```
 
+## Assets
+
+![Cover Banner](assets/cover_page_banner.png)
+
+![Architecture Diagram](assets/architecture_diagram.png)
+
 ## Architecture
 
 ```mermaid
